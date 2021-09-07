@@ -1,4 +1,5 @@
-Bioregions data (.geojson file) originates with One Earth https://www.oneearth.org/bioregions/ and is licensed under a Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/).
+Bioregions data (the Bioregions2020.geojson file) originates with One Earth https://www.oneearth.org/bioregions/
+and is licensed under a Creative Commons Attribution 4.0 International License (https://creativecommons.org/licenses/by/4.0/).
 
 Python code is MIT licensed:
 

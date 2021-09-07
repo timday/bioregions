@@ -1,7 +1,7 @@
 bioregions
 ==========
 
-Python code to identify One Earth's Bioregions for a given longitude-latitude coordinate.
+Python code to identify which One Earth Bioregion (if any) contains a given longitude-latitude coordinate.
 
 Dependences
 -----------
